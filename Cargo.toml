@@ -2,7 +2,7 @@
 name = "mdbook-wordcount"
 description = "Word count for mdbook, inspired by the mdbook tutorial"
 readme = "README.md"
-version = "1.0.1"
+version = "1.0.2"
 repository = "https://github.com/nomorepanic/mdbook-wordcount"
 authors = ["nomorepanic <nomorepanic@nomorepanic.me>"]
 license = "MPL-2.0"
